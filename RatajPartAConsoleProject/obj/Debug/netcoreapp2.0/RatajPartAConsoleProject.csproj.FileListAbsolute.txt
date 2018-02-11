@@ -1,0 +1,11 @@
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\bin\Debug\netcoreapp2.0\RatajPartAConsoleProject.deps.json
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\bin\Debug\netcoreapp2.0\RatajPartAConsoleProject.runtimeconfig.json
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\bin\Debug\netcoreapp2.0\RatajPartAConsoleProject.runtimeconfig.dev.json
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\bin\Debug\netcoreapp2.0\RatajPartAConsoleProject.dll
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\bin\Debug\netcoreapp2.0\RatajPartAConsoleProject.pdb
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\obj\Debug\netcoreapp2.0\RatajPartAConsoleProject.csprojResolveAssemblyReference.cache
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\obj\Debug\netcoreapp2.0\RatajPartAConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\obj\Debug\netcoreapp2.0\RatajPartAConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\obj\Debug\netcoreapp2.0\RatajPartAConsoleProject.AssemblyInfo.cs
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\obj\Debug\netcoreapp2.0\RatajPartAConsoleProject.dll
+C:\Users\Blahoslav\source\repos\RatajPartAConsoleProject\RatajPartAConsoleProject\obj\Debug\netcoreapp2.0\RatajPartAConsoleProject.pdb
